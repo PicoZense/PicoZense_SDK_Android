@@ -1,0 +1,2 @@
+1. support slave mode.
+2. fix some bug.
